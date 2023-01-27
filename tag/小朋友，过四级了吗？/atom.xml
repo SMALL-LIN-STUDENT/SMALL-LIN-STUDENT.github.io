@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io</id>
+    <id>http://example.com</id>
     <title>диво • Posts by &#34;小朋友，过四级了吗？&#34; tag</title>
-    <link href="https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io" />
+    <link href="http://example.com" />
     <updated>2023-01-20T10:14:36.000Z</updated>
     <category term="小朋友，过四级了吗？" />
     <category term="“个人所好”" />
     <entry>
-        <id>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/CET4/</id>
+        <id>http://example.com/CET4/</id>
         <title>CET4</title>
-        <link rel="alternate" href="https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/CET4/"/>
+        <link rel="alternate" href="http://example.com/CET4/"/>
         <content type="html">&lt;h1 id=&#34;115start-everydayenglish&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#115start-everydayenglish&#34;&gt;#&lt;/a&gt; 11.5start everyday.English&lt;/h1&gt;
 &lt;h2 id=&#34;asentence-section-1&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#asentence-section-1&#34;&gt;#&lt;/a&gt; A/sentence section: 1&lt;/h2&gt;
 &lt;table&gt;

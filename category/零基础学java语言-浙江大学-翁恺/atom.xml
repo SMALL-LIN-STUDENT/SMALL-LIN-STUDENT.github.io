@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io</id>
+    <id>http://example.com</id>
     <title>диво • Posts by &#34;零基础学java语言-浙江大学-翁恺&#34; category</title>
-    <link href="https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io" />
+    <link href="http://example.com" />
     <updated>2022-12-15T03:52:14.000Z</updated>
     <category term="小朋友，过四级了吗？" />
     <category term="“个人所好”" />
     <entry>
-        <id>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/computer-science/java/course-1/javaweb/</id>
+        <id>http://example.com/computer-science/java/course-1/javaweb/</id>
         <title>javaWeb</title>
-        <link rel="alternate" href="https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/computer-science/java/course-1/javaweb/"/>
+        <link rel="alternate" href="http://example.com/computer-science/java/course-1/javaweb/"/>
         <content type="html">&lt;h2 id=&#34;综合案例&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#综合案例&#34;&gt;#&lt;/a&gt; 综合案例&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;今日目标：&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -444,9 +444,9 @@
         <updated>2022-12-15T03:52:14.000Z</updated>
     </entry>
     <entry>
-        <id>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/computer-science/java/course-1/%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AE%A1%E7%AE%97/</id>
+        <id>http://example.com/computer-science/java/course-1/%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AE%A1%E7%AE%97/</id>
         <title>SpringBoot</title>
-        <link rel="alternate" href="https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/computer-science/java/course-1/%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AE%A1%E7%AE%97/"/>
+        <link rel="alternate" href="http://example.com/computer-science/java/course-1/%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AE%A1%E7%AE%97/"/>
         <content type="html">&lt;h1 align=&#34;center&#34;&gt;SpringBoot&lt;/h1&gt;
 &lt;p&gt;点解要学&lt;/p&gt;
 &lt;ul&gt;

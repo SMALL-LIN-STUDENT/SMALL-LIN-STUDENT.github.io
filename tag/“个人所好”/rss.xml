@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>диво • Posts by &#34;“个人所好”&#34; tag</title>
-        <link>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io</link>
+        <link>http://example.com</link>
         <description>在努力提升你喜欢我的概率，即使是从0开始！~~（@ @）~~</description>
         <language>zh-CN</language>
         <pubDate>Thu, 20 Jan 2022 20:52:28 +0800</pubDate>
@@ -10,9 +10,9 @@
         <category>小朋友，过四级了吗？</category>
         <category>“个人所好”</category>
         <item>
-            <guid isPermalink="true">https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/photos/</guid>
+            <guid isPermalink="true">http://example.com/photos/</guid>
             <title>photos</title>
-            <link>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/photos/</link>
+            <link>http://example.com/photos/</link>
             <category>“个人所好”</category>
             <pubDate>Thu, 20 Jan 2022 20:52:28 +0800</pubDate>
             <description><![CDATA[ &lt;h1 align=&#34;center&#34;&gt;谷阿玛尼的photos&lt;/h1&gt;

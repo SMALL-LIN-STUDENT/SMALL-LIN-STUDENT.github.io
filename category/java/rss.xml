@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>диво • Posts by &#34;java&#34; category</title>
-        <link>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io</link>
+        <link>http://example.com</link>
         <description>在努力提升你喜欢我的概率，即使是从0开始！~~（@ @）~~</description>
         <language>zh-CN</language>
         <pubDate>Thu, 15 Dec 2022 11:52:14 +0800</pubDate>
@@ -10,9 +10,9 @@
         <category>小朋友，过四级了吗？</category>
         <category>“个人所好”</category>
         <item>
-            <guid isPermalink="true">https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/computer-science/java/course-1/javaweb/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/java/course-1/javaweb/</guid>
             <title>javaWeb</title>
-            <link>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/computer-science/java/course-1/javaweb/</link>
+            <link>http://example.com/computer-science/java/course-1/javaweb/</link>
             <pubDate>Thu, 15 Dec 2022 11:52:14 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;综合案例&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#综合案例&#34;&gt;#&lt;/a&gt; 综合案例&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;今日目标：&lt;/strong&gt;&lt;/p&gt;
@@ -447,9 +447,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/computer-science/java/course-1/%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AE%A1%E7%AE%97/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/java/course-1/%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AE%A1%E7%AE%97/</guid>
             <title>SpringBoot</title>
-            <link>https://github.com/SMALL-LIN-STUDENT/SMALL-LIN-STUDENT.github.io/computer-science/java/course-1/%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AE%A1%E7%AE%97/</link>
+            <link>http://example.com/computer-science/java/course-1/%E7%AC%AC%E4%B8%80%E5%91%A8%E8%AE%A1%E7%AE%97/</link>
             <pubDate>Thu, 15 Dec 2022 11:41:56 +0800</pubDate>
             <description><![CDATA[ &lt;h1 align=&#34;center&#34;&gt;SpringBoot&lt;/h1&gt;
 &lt;p&gt;点解要学&lt;/p&gt;
